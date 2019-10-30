@@ -29,7 +29,7 @@
     "koa-session": "^5.10.0",
     "koa-static": "^3.0.0",
     "koa-views": "^5.2.1",
-    "mongoose": "^5.3.14",
+    "mongoose": "^5.7.5",
     "pug": "^2.0.0-rc.1",
     "superagent": "^4.1.0",
     "superagent-proxy": "^2.0.0"
